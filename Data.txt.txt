@@ -1,0 +1,5 @@
+" Hello, What's up? "
+
+This is a simple sample for test.
+
+python mini_gpt.py --sample --prompt " Hello, What's up? "

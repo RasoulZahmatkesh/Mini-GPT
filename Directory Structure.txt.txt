@@ -1,0 +1,9 @@
+mini-gpt-pytorch-repo/
+├─ README.md
+├─ LICENSE
+├─ .gitignore
+├─ requirements.txt
+├─ mini_gpt.py
+├─ data.txt          # Example small dataset (sample text for testing)
+├─ train.sh          # Quick script to start training
+└─ sample_prompt.txt # A sample prompt

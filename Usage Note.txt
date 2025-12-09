@@ -1,0 +1,8 @@
+Usage Notes:
+
+1. First, clone the repository onto your system.
+2. Make sure PyTorch is installed and compatible with CUDA (if you have a GPU).
+3. The `data.txt` file should contain the text you want to use for training.
+4. To train the model, run: `bash train.sh`.
+5. After training, you can generate text with: `python mini_gpt.py --sample --prompt "your text"`.
+6. The trained model is saved to `mini_gpt.pth` for loading or reuse.

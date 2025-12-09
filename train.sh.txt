@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python mini_gpt.py --data data.txt --train
